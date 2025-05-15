@@ -443,3 +443,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15May2025 21:20:14.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.274s)! For help, type "help"
 [15May2025 21:20:14.779] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [15May2025 21:20:14.816] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[15May2025 21:30:43.591] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[15May2025 21:30:48.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:42313] logged in with entity id 83 at (742.6999999880791, -37.0, -825.9147544109863)
+[15May2025 21:30:48.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[15May2025 21:30:51.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[15May2025 21:31:04.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
+[15May2025 21:36:06.842] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[15May2025 21:36:06.844] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
