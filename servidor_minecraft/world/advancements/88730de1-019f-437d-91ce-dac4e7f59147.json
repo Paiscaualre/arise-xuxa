@@ -58,6 +58,7 @@
       "minecraft:swamp": "2025-05-15 04:37:36 +0000",
       "minecraft:cold_ocean": "2025-05-15 02:32:48 +0000",
       "minecraft:forest": "2025-05-14 23:27:29 +0000",
+      "minecraft:lush_caves": "2025-05-15 22:36:30 +0000",
       "minecraft:deep_cold_ocean": "2025-05-15 06:22:38 +0000",
       "minecraft:desert": "2025-05-14 23:18:06 +0000",
       "minecraft:jungle": "2025-05-14 23:41:50 +0000",
@@ -3321,6 +3322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-15 22:29:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
     "criteria": {
       "has_barrel": "2025-05-15 22:25:10 +0000"
@@ -3330,6 +3337,12 @@
   "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
     "criteria": {
       "has_barrel": "2025-05-15 22:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 22:35:07 +0000"
     },
     "done": true
   },
@@ -3345,6 +3358,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-15 22:29:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
     "criteria": {
       "has_barrel": "2025-05-15 22:25:10 +0000"
@@ -3354,6 +3385,18 @@
   "create_connected:recipes/crafting/kinetics/fluid_vessel": {
     "criteria": {
       "has_item": "2025-05-15 22:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-15 22:49:45 +0000"
     },
     "done": true
   },
@@ -3381,6 +3424,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-15 22:29:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-15 22:29:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
     "criteria": {
       "has_barrel": "2025-05-15 22:25:10 +0000"
@@ -3405,6 +3460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 22:35:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
     "criteria": {
       "has_barrel": "2025-05-15 22:25:10 +0000"
@@ -3420,6 +3481,12 @@
   "create_connected:recipes/crafting/kinetics/item_silo": {
     "criteria": {
       "has_item": "2025-05-15 22:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-15 22:35:07 +0000"
     },
     "done": true
   },

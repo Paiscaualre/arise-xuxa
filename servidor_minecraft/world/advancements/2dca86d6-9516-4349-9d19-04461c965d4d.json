@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-15 21:47:40 +0000"
@@ -47,9 +53,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-05-15 22:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-15 22:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 22:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
     },
     "done": true
   },
@@ -215,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-05-15 21:51:57 +0000"
@@ -301,6 +331,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:vindicator": "2025-05-15 22:34:31 +0000",
       "minecraft:zombie": "2025-05-15 22:00:20 +0000",
       "minecraft:drowned": "2025-05-15 21:54:54 +0000"
     },
@@ -390,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-15 21:57:28 +0000"
@@ -462,9 +499,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-15 22:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
     },
     "done": true
   },
@@ -540,6 +589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-15 21:51:07 +0000"
@@ -555,6 +610,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-15 21:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
     },
     "done": true
   },
@@ -585,6 +646,12 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-05-15 22:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
     },
     "done": true
   },
@@ -678,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-15 21:52:45 +0000"
@@ -705,6 +778,12 @@
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-05-15 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-15 22:39:55 +0000"
     },
     "done": true
   },
@@ -810,9 +889,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-15 22:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-15 22:36:37 +0000"
     },
     "done": true
   },
@@ -855,6 +946,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
     },
     "done": true
   },
@@ -1050,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-15 22:08:28 +0000"
@@ -1059,6 +1162,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-15 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
     },
     "done": true
   },
@@ -1161,6 +1270,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 21:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
     },
     "done": true
   },
@@ -1320,6 +1435,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-15 22:34:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-15 22:06:16 +0000"
@@ -1398,6 +1525,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-15 22:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-05-15 22:21:30 +0000"
@@ -1412,15 +1545,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-15 22:31:12 +0000",
+      "minecraft:deep_ocean": "2025-05-15 22:44:59 +0000",
       "minecraft:birch_forest": "2025-05-15 22:05:11 +0000",
       "minecraft:badlands": "2025-05-15 21:50:37 +0000",
       "minecraft:beach": "2025-05-15 21:56:07 +0000",
+      "minecraft:dark_forest": "2025-05-15 22:31:23 +0000",
       "minecraft:lukewarm_ocean": "2025-05-15 21:56:43 +0000",
       "minecraft:river": "2025-05-15 21:50:10 +0000",
+      "minecraft:cold_ocean": "2025-05-15 22:32:42 +0000",
       "minecraft:forest": "2025-05-15 21:51:12 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-15 22:33:15 +0000",
       "minecraft:desert": "2025-05-15 21:44:30 +0000",
       "minecraft:windswept_forest": "2025-05-15 22:04:27 +0000",
       "minecraft:ocean": "2025-05-15 22:07:26 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-15 22:32:34 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-15 22:30:24 +0000",
       "minecraft:plains": "2025-05-15 21:52:22 +0000"
     },
     "done": false
@@ -1457,6 +1597,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-05-15 22:36:55 +0000",
       "golden_apple": "2025-05-15 21:58:55 +0000",
       "rotten_flesh": "2025-05-15 21:55:06 +0000",
       "salmon": "2025-05-15 21:58:17 +0000",
@@ -1468,6 +1609,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-05-15 22:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-15 22:39:55 +0000"
     },
     "done": true
   },
