@@ -450,3 +450,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15May2025 21:31:04.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
 [15May2025 21:36:06.842] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
 [15May2025 21:36:06.844] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[15May2025 21:44:11.419] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player All_D08 is 2dca86d6-9516-4349-9d19-04461c965d4d
+[15May2025 21:44:29.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: All_D08[/127.111.124.189:43851] logged in with entity id 3220 at (72.5, 68.0, -60.5)
+[15May2025 21:44:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 joined the game
+[15May2025 21:44:29.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Dungeons And Combat]
+[15May2025 21:46:59.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=86, y=62, z=-66}
+[15May2025 21:47:00.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=87, y=62, z=-66}
+[15May2025 21:47:05.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=86, y=62, z=-66}
+[15May2025 21:47:06.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=85, y=62, z=-66}
+[15May2025 21:48:20.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=276, y=64, z=-108} BlockPos{x=276, y=62, z=-108}
+[15May2025 21:52:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Stone Age]
+[15May2025 21:52:57.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Getting an Upgrade]
+[15May2025 21:54:54.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Monster Hunter]
+[15May2025 21:56:35.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Crops of the Wild]
