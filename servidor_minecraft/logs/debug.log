@@ -6663,3 +6663,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [15May2025 21:55:17.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15May2025 21:55:17.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15May2025 21:56:35.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Crops of the Wild]
+[15May2025 22:00:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Lighthouse]
+[15May2025 22:00:17.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:00:17.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 22:00:48.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Sweet Dreams]
+[15May2025 22:01:37.819] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[15May2025 22:01:38.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8224ms or 164 ticks behind
+[15May2025 22:01:38.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester moved too quickly! 4.1964766910864455,1.0,9.122023606791515
+[15May2025 22:01:46.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Acquire Hardware]
+[15May2025 22:05:25.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:05:25.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 22:10:22.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
+[15May2025 22:10:25.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:10:25.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 22:12:32.415] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[15May2025 22:12:35.129] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[15May2025 22:13:53.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17037, l='ServerLevel[world]', x=2064.70, y=86.00, z=65.49] died, message: 'Fisherman was slain by Zombie'
+[15May2025 22:14:04.747] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17038, l='ServerLevel[world]', x=2064.70, y=86.00, z=65.49] died, message: 'Villager was slain by Zombie'
+[15May2025 22:15:25.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:15:25.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 22:20:25.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:20:25.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 22:20:56.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Diamonds!]
+[15May2025 22:21:30.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Isn't It Iron Pick]
+[15May2025 22:23:08.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Pic-A-Nic Basket?]
+[15May2025 22:25:25.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 22:25:25.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
