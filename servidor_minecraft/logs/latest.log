@@ -6,3 +6,17 @@
 [16May2025 00:18:51.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester tried to swim in lava
 [16May2025 00:20:40.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
 [16May2025 00:20:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[16May2025 00:22:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16May2025 00:22:27.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stopstop<--[HERE]
+[16May2025 00:22:33.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 00:22:33.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 00:22:33.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 00:22:33.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 00:22:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 00:22:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 00:22:34.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 00:22:34.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 00:22:34.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 00:22:34.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 00:22:34.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 00:22:34.984] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
