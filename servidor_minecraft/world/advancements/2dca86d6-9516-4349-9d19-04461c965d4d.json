@@ -388,6 +388,7 @@
       "minecraft:pillager": "2025-05-15 23:14:27 +0000",
       "minecraft:skeleton": "2025-05-15 23:20:08 +0000",
       "minecraft:vindicator": "2025-05-15 22:34:31 +0000",
+      "minecraft:phantom": "2025-05-15 23:38:14 +0000",
       "minecraft:zombie": "2025-05-15 22:00:20 +0000",
       "minecraft:drowned": "2025-05-15 21:54:54 +0000"
     },
@@ -561,6 +562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-15 23:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-15 23:11:56 +0000"
@@ -594,6 +601,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-05-15 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:46:05 +0000"
     },
     "done": true
   },
@@ -729,6 +742,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 23:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-15 22:20:56 +0000"
@@ -744,6 +763,12 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-05-15 22:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-15 23:42:03 +0000"
     },
     "done": true
   },
@@ -873,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-15 23:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-15 22:06:16 +0000"
@@ -930,6 +961,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-15 21:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:46:05 +0000"
     },
     "done": true
   },
@@ -1257,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-15 23:45:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-15 23:28:52 +0000"
@@ -1413,6 +1456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-15 23:45:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-15 21:57:28 +0000"
@@ -1458,6 +1507,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-15 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-05-15 23:42:03 +0000"
     },
     "done": true
   },
@@ -1856,6 +1911,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-05-15 22:36:55 +0000",
+      "bread": "2025-05-15 23:43:59 +0000",
       "golden_apple": "2025-05-15 21:58:55 +0000",
       "rotten_flesh": "2025-05-15 21:55:06 +0000",
       "salmon": "2025-05-15 21:58:17 +0000",
@@ -1875,6 +1931,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-15 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-15 23:42:03 +0000"
     },
     "done": true
   },
@@ -1947,6 +2009,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-15 22:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-15 23:46:05 +0000"
     },
     "done": true
   },
