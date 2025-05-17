@@ -595,3 +595,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 07:13:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Best Friends Forever]
 [17May2025 07:13:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has reached the goal [Tyrant King]
 [17May2025 07:15:01.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of YamadaH2O) moved wrongly! 0.2763201383932028
+[17May2025 07:18:46.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Tyrant King]
+[17May2025 07:28:59.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Prehistoric Elytra]
+[17May2025 07:30:21.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[17May2025 07:30:21.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[17May2025 07:33:19.967] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24ee8419[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.49.134.244:40669) lost connection: Disconnected
+[17May2025 07:33:27.078] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[17May2025 07:33:30.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.49.134.244:35065] logged in with entity id 99475 at (9670.852940624764, -29.0, -6267.971677361173)
+[17May2025 07:33:30.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[17May2025 07:35:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has reached the goal [Prehistoric Elytra]
+[17May2025 07:45:11.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[17May2025 07:45:11.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[17May2025 07:46:02.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[17May2025 07:46:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[17May2025 07:46:36.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17May2025 07:46:36.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 07:46:36.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 07:46:36.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 07:46:37.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17May2025 07:46:37.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17May2025 07:46:37.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17May2025 07:46:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17May2025 07:46:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 07:46:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 07:46:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17May2025 07:46:38.145] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -682,6 +682,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-15 00:23:31 +0000",
+      "chorus_fruit": "2025-05-17 07:29:52 +0000",
       "baked_potato": "2025-05-17 06:03:59 +0000",
       "apple": "2025-05-15 00:23:04 +0000",
       "pumpkin_pie": "2025-05-15 00:10:12 +0000",
@@ -3116,21 +3117,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/fiddlehead": {
+  "dungeons_and_combat:is_this_my_size": {
     "criteria": {
-      "fiddlehead": "2025-05-17 07:03:49 +0000"
+      "is_this_my_size_0": "2025-05-17 05:20:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_gold_block": "2025-05-17 06:38:58 +0000"
+      "has_diamond_backpack": "2025-05-17 05:20:41 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
       "killed": "2025-05-17 05:29:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-05-17 06:06:13 +0000"
     },
     "done": true
   },
@@ -3146,27 +3153,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-05-17 05:20:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-05-17 06:49:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-05-17 06:10:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-17 07:13:56 +0000"
     },
     "done": true
   },
@@ -3182,12 +3171,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/primordial_armor": {
-    "criteria": {
-      "tunic": "2025-05-17 07:00:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-17 06:10:02 +0000"
@@ -3200,63 +3183,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tame_tremorsaurus": {
-    "criteria": {
-      "killed": "2025-05-17 07:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-05-17 06:49:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/primitive_club": {
-    "criteria": {
-      "limestone": "2025-05-17 07:11:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
-    "criteria": {
-      "killed_relicheirus": "2025-05-17 06:56:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-05-17 06:38:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-17 07:05:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-05-17 06:10:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2025-05-17 06:56:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-05-17 07:04:08 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_coliseum": {
-    "criteria": {
-      "location0": "2025-05-17 06:06:13 +0000"
     },
     "done": true
   },
@@ -3266,45 +3195,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/serene_salad": {
-    "criteria": {
-      "serene_salad": "2025-05-17 07:06:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-17 06:49:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-05-17 07:01:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-17 06:10:02 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_rider": {
-    "criteria": {
-      "location0": "2025-05-17 06:46:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-05-17 06:56:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-05-17 07:05:05 +0000"
     },
     "done": true
   },
@@ -3314,9 +3207,124 @@
     },
     "done": true
   },
-  "dungeons_and_combat:is_this_my_size": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "is_this_my_size_0": "2025-05-17 05:20:01 +0000"
+      "has_golden_carrot": "2025-05-17 06:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 06:38:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-05-17 06:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-17 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-17 06:49:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-17 06:56:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-05-17 06:56:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-05-17 06:56:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "helmet": "2025-05-17 07:17:55 +0000",
+      "tunic": "2025-05-17 07:00:22 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-05-17 07:01:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-05-17 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-05-17 07:04:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-17 07:05:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-17 07:05:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-05-17 07:06:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-05-17 07:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-17 07:13:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-05-17 07:13:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-05-17 07:35:34 +0000"
     },
     "done": true
   },

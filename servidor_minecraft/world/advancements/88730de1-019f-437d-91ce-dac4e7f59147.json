@@ -4078,6 +4078,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-05-17 07:28:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-17 06:42:58 +0000"
@@ -4214,6 +4220,12 @@
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-17 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-05-17 07:18:46 +0000"
     },
     "done": true
   },
