@@ -686,3 +686,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 01:42:03.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [You Are A Pirate]
 [17May2025 01:42:50.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JARAX23) moved wrongly! 0.26226431143959417
 [17May2025 01:42:50.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JARAX23) moved wrongly! 0.3484106244079612
+[17May2025 01:54:14.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[17May2025 01:54:14.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[17May2025 02:03:07.752] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[17May2025 02:03:07.753] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[17May2025 02:03:09.588] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[17May2025 02:03:09.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[17May2025 02:03:09.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[17May2025 02:03:13.705] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[17May2025 02:06:37.810] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[17May2025 02:06:43.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:54135] logged in with entity id 14970 at (2971.5811735059215, 64.0, -2605.9649677175976)
+[17May2025 02:06:43.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[17May2025 02:07:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]

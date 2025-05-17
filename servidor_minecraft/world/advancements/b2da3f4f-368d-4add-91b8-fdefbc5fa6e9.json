@@ -233,7 +233,9 @@
       "cooked_mutton": "2025-05-15 02:51:29 +0000",
       "cooked_beef": "2025-05-15 03:24:19 +0000",
       "apple": "2025-05-14 23:23:17 +0000",
+      "bread": "2025-05-17 02:01:48 +0000",
       "mushroom_stew": "2025-05-15 00:07:28 +0000",
+      "rabbit_stew": "2025-05-17 01:53:11 +0000",
       "cooked_salmon": "2025-05-14 23:36:00 +0000"
     },
     "done": false
@@ -1960,7 +1962,8 @@
       "minecraft:skeleton": "2025-05-15 00:24:53 +0000",
       "minecraft:vindicator": "2025-05-17 01:43:08 +0000",
       "minecraft:husk": "2025-05-15 02:57:56 +0000",
-      "minecraft:zombie": "2025-05-15 00:21:31 +0000"
+      "minecraft:zombie": "2025-05-15 00:21:31 +0000",
+      "minecraft:drowned": "2025-05-17 02:01:40 +0000"
     },
     "done": false
   },
@@ -3086,6 +3089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-05-17 01:59:24 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-05-17 01:42:03 +0000"
@@ -3095,6 +3104,48 @@
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2025-05-17 01:43:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-17 01:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-17 02:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-05-17 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 01:55:37 +0000"
     },
     "done": true
   },
@@ -3110,6 +3161,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 01:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-17 01:48:05 +0000"
@@ -3122,9 +3191,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-17 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-17 02:02:06 +0000"
     },
     "done": true
   },
@@ -3146,9 +3239,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-05-17 01:46:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-17 02:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
     },
     "done": true
   },
@@ -3164,9 +3275,69 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-17 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-17 01:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-05-17 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
     },
     "done": true
   },
@@ -3182,9 +3353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-17 01:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:52:48 +0000"
     },
     "done": true
   },
@@ -3194,9 +3377,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-17 01:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-17 01:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-17 01:55:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:02:06 +0000"
     },
     "done": true
   },
