@@ -472,3 +472,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 05:40:25.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O moved too quickly! -7.779698261324938,-1.0,6.518187249340372
 [17May2025 05:42:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [The Journey Begins]
 [17May2025 05:42:55.117] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 9816 -56 -6007 in 2s
+[17May2025 05:56:01.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Warden
+[17May2025 06:01:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to YamadaH2O]
+[17May2025 06:03:28.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to Mandester]
+[17May2025 06:08:22.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Carbonated Swim]
+[17May2025 06:09:07.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to YamadaH2O]
+[17May2025 06:09:51.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2015, y=141, z=2920} BlockPos{x=2014, y=140, z=2921}
+[17May2025 06:16:38.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 9.545526333668477,3.0,-2.3893979428985404
+[17May2025 06:16:38.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 9.927928889805571,3.0,-2.60605668123344
+[17May2025 06:16:38.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 10.295111635223748,2.9231679985046384,-2.846118609586483
+[17May2025 06:16:38.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 10.50554214935164,2.772546541336993,-2.989521947782123
+[17May2025 06:16:38.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 10.706361031880988,2.5510576895623984,-3.096514268433566
+[17May2025 06:16:38.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 10.88724199247281,2.261507790682643,-3.117308773390505
+[17May2025 06:16:38.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 11.048923769068551,1.906592060890901,-3.1567214582596534
+[17May2025 06:16:38.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 11.190648031606997,1.4888989858694543,-3.212595252608935
+[17May2025 06:16:38.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 11.312954097936654,1.0109145473159629,-3.2828915738627984
+[17May2025 06:16:38.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 11.415306965122909,0.4750262820993356,-3.3653419906813724
+[17May2025 06:16:38.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved too quickly! 11.499146544611449,-0.11647281932690134,-3.4583721348326435
+[17May2025 06:16:38.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7192319940418201
+[17May2025 06:16:38.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7060018096517524
+[17May2025 06:16:38.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7419808255126554
+[17May2025 06:16:38.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.7135330650762626
+[17May2025 06:16:38.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Mandester) moved wrongly! 1.6506118211750618
