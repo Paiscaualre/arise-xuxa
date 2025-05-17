@@ -718,3 +718,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 02:51:17.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Isn't It Iron Pick]
 [17May2025 02:51:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
 [17May2025 02:52:14.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Cover Me with Diamonds]
+[17May2025 03:03:05.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[17May2025 03:03:05.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[17May2025 03:03:38.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set the time to 1000]
+[17May2025 03:09:17.337] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[17May2025 03:09:17.337] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[17May2025 03:09:18.944] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[17May2025 03:09:18.944] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[17May2025 03:09:18.944] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[17May2025 03:09:18.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[17May2025 03:09:18.945] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[17May2025 03:13:26.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/61948, l='ServerLevel[world]', x=312.50, y=40.00, z=4656.50]
+[17May2025 03:13:39.018] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/62014, l='ServerLevel[world]', x=312.50, y=43.00, z=4661.50]
+[17May2025 03:14:34.520] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/62500, l='ServerLevel[world]', x=304.50, y=44.00, z=4666.50]
+[17May2025 03:14:44.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set the time to 1000]
+[17May2025 03:14:45.217] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/62548, l='ServerLevel[world]', x=305.50, y=50.00, z=4677.50]
+[17May2025 03:15:34.516] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/62961, l='ServerLevel[world]', x=311.50, y=53.00, z=4675.50]
+[17May2025 03:15:42.216] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/63037, l='ServerLevel[world]', x=310.50, y=45.00, z=4680.50]

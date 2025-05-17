@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-17 03:07:29 +0000",
       "minecraft:eroded_badlands": "2025-05-14 23:31:33 +0000",
       "minecraft:cherry_grove": "2025-05-15 03:06:45 +0000",
       "minecraft:sunflower_plains": "2025-05-15 02:55:36 +0000",
@@ -49,7 +50,9 @@
       "minecraft:river": "2025-05-14 23:22:50 +0000",
       "minecraft:lukewarm_ocean": "2025-05-14 23:46:33 +0000",
       "minecraft:stony_shore": "2025-05-14 23:37:44 +0000",
+      "minecraft:cold_ocean": "2025-05-17 03:09:18 +0000",
       "minecraft:forest": "2025-05-14 23:49:01 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-17 03:07:45 +0000",
       "minecraft:desert": "2025-05-14 23:20:36 +0000",
       "minecraft:ocean": "2025-05-14 23:48:16 +0000",
       "minecraft:warm_ocean": "2025-05-14 23:45:19 +0000",
@@ -234,6 +237,7 @@
       "cooked_mutton": "2025-05-15 02:51:29 +0000",
       "cooked_beef": "2025-05-15 03:24:19 +0000",
       "apple": "2025-05-14 23:23:17 +0000",
+      "cooked_cod": "2025-05-17 03:04:58 +0000",
       "bread": "2025-05-17 02:01:48 +0000",
       "rotten_flesh": "2025-05-17 02:16:07 +0000",
       "mushroom_stew": "2025-05-15 00:07:28 +0000",
@@ -3098,6 +3102,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:55:16 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-05-17 01:42:03 +0000"
@@ -3122,9 +3132,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-17 02:02:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 03:03:04 +0000"
     },
     "done": true
   },
@@ -3185,6 +3207,12 @@
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-05-17 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-17 03:04:09 +0000"
     },
     "done": true
   },
@@ -3326,6 +3354,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-17 01:52:48 +0000"
@@ -3401,6 +3435,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-05-17 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-17 03:03:04 +0000"
     },
     "done": true
   },
