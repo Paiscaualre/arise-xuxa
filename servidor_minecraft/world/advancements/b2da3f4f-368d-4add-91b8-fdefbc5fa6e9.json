@@ -234,6 +234,7 @@
       "cooked_beef": "2025-05-15 03:24:19 +0000",
       "apple": "2025-05-14 23:23:17 +0000",
       "bread": "2025-05-17 02:01:48 +0000",
+      "rotten_flesh": "2025-05-17 02:16:07 +0000",
       "mushroom_stew": "2025-05-15 00:07:28 +0000",
       "rabbit_stew": "2025-05-17 01:53:11 +0000",
       "cooked_salmon": "2025-05-14 23:36:00 +0000"
@@ -3374,6 +3375,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-17 01:49:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-05-17 02:14:44 +0000"
     },
     "done": true
   },

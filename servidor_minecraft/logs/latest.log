@@ -698,3 +698,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 02:06:43.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:54135] logged in with entity id 14970 at (2971.5811735059215, 64.0, -2605.9649677175976)
 [17May2025 02:06:43.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [17May2025 02:07:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the weather to clear]
+[17May2025 02:14:44.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [The Lighthouse]
+[17May2025 02:18:40.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -0.9165346330983084,-10.61202295686212,-1.816744341611411
+[17May2025 02:18:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 fell from a high place
+[17May2025 02:21:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Rigged from the Start]
