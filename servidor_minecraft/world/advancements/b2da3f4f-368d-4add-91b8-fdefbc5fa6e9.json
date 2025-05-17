@@ -1963,6 +1963,7 @@
       "minecraft:pillager": "2025-05-17 01:48:53 +0000",
       "minecraft:skeleton": "2025-05-15 00:24:53 +0000",
       "minecraft:vindicator": "2025-05-17 01:43:08 +0000",
+      "minecraft:spider": "2025-05-17 02:44:41 +0000",
       "minecraft:husk": "2025-05-15 02:57:56 +0000",
       "minecraft:zombie": "2025-05-15 00:21:31 +0000",
       "minecraft:drowned": "2025-05-17 02:01:40 +0000"
@@ -3127,6 +3128,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-17 02:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-17 01:51:37 +0000"
@@ -3310,6 +3317,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-05-17 02:49:29 +0000"
     },
     "done": true
   },

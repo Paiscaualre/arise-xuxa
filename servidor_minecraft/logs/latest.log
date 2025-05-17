@@ -714,3 +714,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 02:42:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set own game mode to Creative Mode]
 [17May2025 02:43:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set own game mode to Survival Mode]
 [17May2025 02:44:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
+[17May2025 02:50:00.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[17May2025 02:51:17.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Isn't It Iron Pick]
+[17May2025 02:51:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
+[17May2025 02:52:14.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Cover Me with Diamonds]

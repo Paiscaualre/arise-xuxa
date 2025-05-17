@@ -2507,5 +2507,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-17 02:45:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-05-17 02:52:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

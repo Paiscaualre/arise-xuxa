@@ -98,6 +98,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-05-17 02:51:35 +0000",
       "pumpkin_pie": "2025-05-17 02:20:44 +0000",
       "bread": "2025-05-14 23:24:25 +0000",
       "golden_apple": "2025-05-15 23:40:12 +0000",
@@ -3724,6 +3725,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-17 02:50:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-17 02:29:52 +0000"
@@ -3790,9 +3797,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-17 02:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-17 02:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-17 02:51:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-05-17 02:50:01 +0000"
     },
     "done": true
   },
@@ -3832,6 +3857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-17 02:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-17 02:12:03 +0000"
@@ -3856,6 +3887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-17 02:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-17 02:12:03 +0000"
@@ -3877,6 +3914,12 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-05-17 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-17 02:50:51 +0000"
     },
     "done": true
   },

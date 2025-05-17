@@ -7249,3 +7249,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 02:44:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
 [17May2025 02:44:39.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17May2025 02:44:39.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 02:49:39.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 02:49:39.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 02:50:00.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[17May2025 02:51:17.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Isn't It Iron Pick]
+[17May2025 02:51:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
+[17May2025 02:52:14.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Cover Me with Diamonds]
+[17May2025 02:54:39.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 02:54:39.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
