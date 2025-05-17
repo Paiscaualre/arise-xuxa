@@ -702,3 +702,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 02:18:40.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -0.9165346330983084,-10.61202295686212,-1.816744341611411
 [17May2025 02:18:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 fell from a high place
 [17May2025 02:21:15.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Rigged from the Start]
+[17May2025 02:30:49.753] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[17May2025 02:30:53.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.49.134.244:58967] logged in with entity id 30773 at (727.2318728859256, -1.0939487208488525, -937.4338761845415)
+[17May2025 02:30:53.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[17May2025 02:31:09.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2961, y=64, z=-2632} BlockPos{x=2961, y=63, z=-2632}
+[17May2025 02:33:30.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set own game mode to Spectator Mode]
+[17May2025 02:35:52.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
+[17May2025 02:38:21.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Eye Spy]
+[17May2025 02:41:32.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[17May2025 02:41:59.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[17May2025 02:42:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set own game mode to Creative Mode]
+[17May2025 02:43:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set own game mode to Survival Mode]
+[17May2025 02:44:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie

@@ -98,6 +98,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "pumpkin_pie": "2025-05-17 02:20:44 +0000",
       "bread": "2025-05-14 23:24:25 +0000",
       "golden_apple": "2025-05-15 23:40:12 +0000",
       "melon_slice": "2025-05-15 00:11:46 +0000",
@@ -2529,7 +2530,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-05-15 02:23:22 +0000"
+      "sugar_cane": "2025-05-15 02:23:22 +0000",
+      "red_mushroom": "2025-05-17 02:29:54 +0000",
+      "carrot": "2025-05-17 02:21:17 +0000"
     },
     "done": false
   },
@@ -3709,9 +3712,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:29:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-05-17 02:12:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:29:52 +0000"
     },
     "done": true
   },
@@ -3745,6 +3760,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-05-17 02:21:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematicannon": {
     "criteria": {
       "has_the_recipe": "2025-05-17 02:13:02 +0000"
@@ -3757,9 +3784,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-17 02:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-17 02:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-17 02:30:43 +0000"
     },
     "done": true
   },
@@ -3811,6 +3850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-17 02:38:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-17 02:12:03 +0000"
@@ -3820,6 +3865,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-17 02:12:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-05-17 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-05-17 02:21:11 +0000"
     },
     "done": true
   },

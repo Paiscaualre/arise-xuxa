@@ -230,6 +230,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-17 02:40:57 +0000",
       "cooked_mutton": "2025-05-15 02:51:29 +0000",
       "cooked_beef": "2025-05-15 03:24:19 +0000",
       "apple": "2025-05-14 23:23:17 +0000",
@@ -3315,6 +3316,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-17 01:52:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-05-17 02:21:15 +0000"
     },
     "done": true
   },

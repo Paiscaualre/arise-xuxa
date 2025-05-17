@@ -46,15 +46,21 @@
       "minecraft:savanna_plateau": "2025-05-15 04:07:37 +0000",
       "minecraft:beach": "2025-05-15 05:11:26 +0000",
       "minecraft:stony_peaks": "2025-05-15 04:14:47 +0000",
+      "minecraft:sparse_jungle": "2025-05-17 02:34:12 +0000",
       "minecraft:river": "2025-05-14 23:50:48 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-17 02:37:20 +0000",
+      "minecraft:stony_shore": "2025-05-17 02:34:57 +0000",
       "minecraft:dripstone_caves": "2025-05-15 00:11:57 +0000",
       "minecraft:swamp": "2025-05-15 05:02:50 +0000",
       "minecraft:cold_ocean": "2025-05-15 06:06:17 +0000",
       "minecraft:forest": "2025-05-15 03:22:44 +0000",
       "minecraft:desert": "2025-05-14 23:49:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-15 06:12:47 +0000",
+      "minecraft:warm_ocean": "2025-05-17 02:35:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-17 02:37:39 +0000",
       "minecraft:deep_dark": "2025-05-15 04:39:54 +0000",
       "minecraft:meadow": "2025-05-15 05:25:52 +0000",
+      "minecraft:savanna": "2025-05-17 02:34:54 +0000",
       "minecraft:plains": "2025-05-15 04:12:58 +0000"
     },
     "done": false
@@ -2492,6 +2498,12 @@
   "alexsmobs:alexsmobs/skreecher": {
     "criteria": {
       "killed": "2025-05-15 07:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-17 02:38:21 +0000"
     },
     "done": true
   },
