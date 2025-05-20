@@ -2536,6 +2536,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-05-20 02:18:34 +0000",
+      "rice": "2025-05-20 02:19:06 +0000",
       "sugar_cane": "2025-05-15 02:23:22 +0000",
       "red_mushroom": "2025-05-17 02:29:54 +0000",
       "carrot": "2025-05-17 02:21:17 +0000"
@@ -4485,18 +4487,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
-    "criteria": {
-      "has_item": "2025-05-20 02:07:38 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
-    "criteria": {
-      "has_item": "2025-05-20 02:07:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-05-20 02:03:32 +0000"
@@ -4539,12 +4529,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-05-20 02:07:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-05-20 02:03:32 +0000"
@@ -4554,12 +4538,6 @@
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2025-05-20 02:03:32 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
-    "criteria": {
-      "has_item": "2025-05-20 02:07:38 +0000"
     },
     "done": true
   },
@@ -4701,12 +4679,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
-    "criteria": {
-      "has_item": "2025-05-20 02:07:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-05-20 02:03:32 +0000"
@@ -4755,12 +4727,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/crank_wheel": {
-    "criteria": {
-      "has_item": "2025-05-20 02:07:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-05-20 02:03:32 +0000"
@@ -4773,12 +4739,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2025-05-20 02:07:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/item_hatch": {
     "criteria": {
       "has_item": "2025-05-20 02:03:32 +0000"
@@ -4788,6 +4748,66 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-05-20 02:03:32 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-05-20 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-05-20 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-05-20 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-20 02:07:36 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-20 02:07:38 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-05-20 02:07:38 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-20 02:07:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-05-20 02:19:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-20 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-20 02:15:38 +0000"
     },
     "done": true
   },

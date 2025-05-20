@@ -4235,6 +4235,12 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-20 02:10:01 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
     "criteria": {
       "has_soil": "2025-05-20 01:57:20 +0000"
@@ -4319,6 +4325,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-20 02:18:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-05-20 02:03:21 +0000"
@@ -4367,9 +4379,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-05-20 02:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-20 02:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-20 02:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-20 02:10:01 +0000"
     },
     "done": true
   },

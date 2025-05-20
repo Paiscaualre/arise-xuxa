@@ -6839,3 +6839,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 02:12:45.145] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@40e4cf5c into net.minecraft.network.Connection@786c9417
 [20May2025 02:12:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [20May2025 02:12:45.174] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to Mandester
+[20May2025 02:14:41.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 02:14:41.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 02:16:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Blaze
+[20May2025 02:19:41.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 02:19:41.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
