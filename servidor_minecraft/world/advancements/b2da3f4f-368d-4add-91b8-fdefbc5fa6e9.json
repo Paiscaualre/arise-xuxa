@@ -4410,6 +4410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-20 03:41:53 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/palettes/copycat_wall": {
     "criteria": {
       "has_item": "2025-05-20 02:33:04 +0000"
@@ -4455,6 +4461,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-20 02:03:21 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-20 03:44:01 +0000"
     },
     "done": true
   },
@@ -4530,6 +4542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-20 03:41:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-05-20 02:00:52 +0000"
@@ -4551,6 +4569,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-20 02:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-20 03:41:53 +0000"
     },
     "done": true
   },
@@ -4737,6 +4761,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-20 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-20 03:39:28 +0000"
     },
     "done": true
   },

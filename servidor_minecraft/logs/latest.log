@@ -491,3 +491,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 03:05:16.744] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
 [20May2025 03:05:21.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:51663] logged in with entity id 41071 at (2970.4936541989605, 64.0, -2608.16956687928)
 [20May2025 03:05:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[20May2025 03:38:28.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester tried to swim in lava
