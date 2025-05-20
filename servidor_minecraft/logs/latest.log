@@ -466,3 +466,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 02:12:45.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:55691] logged in with entity id 13126 at (2975.030652723803, 64.0, -2614.096452578271)
 [20May2025 02:12:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [20May2025 02:16:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Blaze
+[20May2025 02:26:02.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Encino Man]
+[20May2025 02:30:03.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -1.4162366771467987,-1.84766481314945,-9.76901702872874

@@ -4470,10 +4470,11 @@
   },
   "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
+      "pants": "2025-05-20 02:26:02 +0000",
       "helmet": "2025-05-17 07:12:57 +0000",
       "tunic": "2025-05-17 07:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexscaves:alexscaves/tame_tremorsaurus": {
     "criteria": {
@@ -4793,6 +4794,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-20 02:25:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-20 02:21:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-05-20 02:19:06 +0000"
@@ -4802,6 +4815,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-05-20 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-20 02:21:50 +0000"
     },
     "done": true
   },
