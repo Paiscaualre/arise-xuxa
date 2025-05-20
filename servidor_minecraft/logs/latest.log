@@ -447,3 +447,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 01:41:03.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.69.151.243:36115] logged in with entity id 67 at (-54.11431359892269, 63.5625, 4621.895382332194)
 [20May2025 01:41:03.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
 [20May2025 01:41:05.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[20May2025 01:44:12.573] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1380, l='ServerLevel[world]', x=312.50, y=52.00, z=4679.50]
+[20May2025 01:51:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [We Need to Go Deeper]
+[20May2025 01:52:00.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[20May2025 01:52:19.416] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[20May2025 01:52:30.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:59629] logged in with entity id 4948 at (2970.9892180619345, 64.0, -2603.467834063716)
+[20May2025 01:52:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[20May2025 01:52:54.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
