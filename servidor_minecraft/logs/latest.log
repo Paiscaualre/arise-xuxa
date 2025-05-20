@@ -468,3 +468,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 02:16:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Blaze
 [20May2025 02:26:02.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Encino Man]
 [20May2025 02:30:03.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 moved too quickly! -1.4162366771467987,-1.84766481314945,-9.76901702872874
+[20May2025 02:42:08.736] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[20May2025 02:42:08.738] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[20May2025 02:43:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 went off with a bang
+[20May2025 02:43:44.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[20May2025 02:43:53.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was impaled by Drowned
+[20May2025 02:44:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[20May2025 02:45:39.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
+[20May2025 02:46:12.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
+[20May2025 02:47:01.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Hoglin
+[20May2025 02:47:20.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Zombie
+[20May2025 02:47:27.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported JARAX23 to Mandester]
+[20May2025 02:48:11.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
+[20May2025 02:49:10.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
+[20May2025 02:50:11.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was burnt to a crisp whilst fighting Pillager
+[20May2025 02:50:17.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Zombie
+[20May2025 02:50:43.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Vindicator
+[20May2025 02:54:45.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[20May2025 02:54:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[20May2025 03:01:05.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JARAX23) moved wrongly! 0.5770418826837158
+[20May2025 03:01:05.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JARAX23) moved wrongly! 0.6065183637310838
+[20May2025 03:05:16.744] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[20May2025 03:05:21.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:51663] logged in with entity id 41071 at (2970.4936541989605, 64.0, -2608.16956687928)
+[20May2025 03:05:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
