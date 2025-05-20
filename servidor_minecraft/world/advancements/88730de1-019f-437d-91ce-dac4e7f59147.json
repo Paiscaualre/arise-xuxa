@@ -698,6 +698,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-15 06:19:53 +0000",
       "minecraft:skeleton": "2025-05-14 23:33:12 +0000",
+      "minecraft:ravager": "2025-05-20 22:17:38 +0000",
       "minecraft:vindicator": "2025-05-17 06:28:08 +0000",
       "minecraft:spider": "2025-05-14 23:33:20 +0000",
       "minecraft:creeper": "2025-05-14 23:48:54 +0000",
@@ -5179,9 +5180,105 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_cut_copper": "2025-05-20 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
     },
     "done": true
   },
@@ -5197,9 +5294,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2025-05-20 22:09:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
     },
     "done": true
   },
@@ -5209,15 +5318,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-20 22:12:04 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-05-20 22:07:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-05-20 22:22:09 +0000"
     },
     "done": true
   },

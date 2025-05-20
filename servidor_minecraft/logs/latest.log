@@ -456,3 +456,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 22:07:25.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Welcome To The Machine]
 [20May2025 22:11:24.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
 [20May2025 22:17:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Ravager
+[20May2025 22:20:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester blew up
+[20May2025 22:22:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:25:10.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13343, l='ServerLevel[world]', x=1948.49, y=190.00, z=-4727.39] died: Gearling was slain by Mandester
+[20May2025 22:26:04.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13368, l='ServerLevel[world]', x=1951.15, y=190.00, z=-4725.85] died: Gearling was slain by Mandester
+[20May2025 22:26:05.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13366, l='ServerLevel[world]', x=1950.24, y=190.00, z=-4727.35] died: Gearling was slain by Mandester
+[20May2025 22:26:08.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13370, l='ServerLevel[world]', x=1951.50, y=190.00, z=-4724.85] died: Gearling died because of Mandester
+[20May2025 22:26:32.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was killed by magic
