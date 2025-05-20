@@ -485,3 +485,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 22:58:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
 [20May2025 22:59:46.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
 [20May2025 23:02:24.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was doomed to fall by Spider
+[20May2025 23:11:54.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [A Seedy Place]
+[20May2025 23:18:15.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Plant Food]
