@@ -483,3 +483,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 22:57:14.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Gearling
 [20May2025 22:57:29.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29199, l='ServerLevel[world]', x=1949.20, y=250.00, z=-4772.30] died: Gearling was slain by Mandester
 [20May2025 22:58:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:59:46.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 23:02:24.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was doomed to fall by Spider
