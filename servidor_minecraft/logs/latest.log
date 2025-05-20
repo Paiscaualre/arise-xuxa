@@ -454,3 +454,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 01:52:30.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:59629] logged in with entity id 4948 at (2970.9892180619345, 64.0, -2603.467834063716)
 [20May2025 01:52:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [20May2025 01:52:54.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[20May2025 01:55:16.422] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/6954, l='ServerLevel[world]', x=312.50, y=46.00, z=4665.50]
+[20May2025 01:57:51.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Nightmare Fuel]
+[20May2025 01:59:40.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 tried to swim in lava
+[20May2025 02:03:44.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [A Terrible Fortress]
+[20May2025 02:10:01.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Into Fire]
+[20May2025 02:11:32.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[20May2025 02:11:32.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[20May2025 02:11:32.799] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20May2025 02:12:40.444] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[20May2025 02:12:45.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:55691] logged in with entity id 13126 at (2975.030652723803, 64.0, -2614.096452578271)
+[20May2025 02:12:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
