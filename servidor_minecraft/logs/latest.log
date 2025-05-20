@@ -492,3 +492,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 03:05:21.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:51663] logged in with entity id 41071 at (2970.4936541989605, 64.0, -2608.16956687928)
 [20May2025 03:05:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
 [20May2025 03:38:28.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester tried to swim in lava
+[20May2025 03:47:13.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Gave 64 [Bread] to Mandester]
+[20May2025 03:48:53.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/53425, l='ServerLevel[world]', x=2968.56, y=61.05, z=-2607.49] died, message: 'Nitwit drowned'
+[20May2025 03:51:06.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [The Andesite Age]
+[20May2025 03:55:41.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[20May2025 03:55:41.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[20May2025 04:10:10.841] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[20May2025 04:10:24.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:59209] logged in with entity id 64827 at (3084.84465985112, 59.25220334025373, -2637.393996652194)
+[20May2025 04:10:24.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[20May2025 04:11:50.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Mandester) moved too quickly! 0.16940449012463432,10.823940348394984,0.20142471774624937
+[20May2025 04:11:50.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Mandester) moved too quickly! 0.18162794327099618,12.475349876232272,0.21595860405614076
+[20May2025 04:11:50.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Mandester) moved too quickly! -0.0629532732300504,-10.403596598321542,-0.07485247458453159
+[20May2025 04:11:50.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Mandester) moved too quickly! -0.0629532732300504,-10.403596598321542,-0.07485247458453159
+[20May2025 04:12:16.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to JARAX23]
+[20May2025 04:15:48.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Peaceful]
+[20May2025 04:15:55.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: The difficulty has been set to Normal]
