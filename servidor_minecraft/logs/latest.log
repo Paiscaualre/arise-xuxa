@@ -487,3 +487,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 23:02:24.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was doomed to fall by Spider
 [20May2025 23:11:54.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [A Seedy Place]
 [20May2025 23:18:15.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has reached the goal [Plant Food]
+[20May2025 23:31:48.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
+[20May2025 23:32:03.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Survival Mode]
+[20May2025 23:34:30.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [The Cursed Soul]
