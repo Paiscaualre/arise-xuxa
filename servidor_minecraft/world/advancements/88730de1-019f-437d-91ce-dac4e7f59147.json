@@ -5180,6 +5180,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-20 22:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-20 22:27:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-05-20 22:22:09 +0000"
@@ -5189,6 +5207,30 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-20 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-20 22:29:37 +0000"
     },
     "done": true
   },
@@ -5210,6 +5252,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-20 22:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-20 22:47:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-20 22:22:09 +0000"
@@ -5222,9 +5276,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-20 22:30:35 +0000"
     },
     "done": true
   },
@@ -5240,6 +5306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-20 22:22:09 +0000"
@@ -5252,9 +5324,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-20 22:56:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-20 22:44:49 +0000"
     },
     "done": true
   },
@@ -5270,9 +5354,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-05-20 22:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-20 22:56:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-20 22:32:07 +0000"
     },
     "done": true
   },
@@ -5288,6 +5396,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-20 22:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-20 22:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2025-05-20 22:09:38 +0000"
@@ -5297,6 +5423,24 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-20 22:27:22 +0000"
     },
     "done": true
   },
@@ -5318,6 +5462,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-20 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-20 22:56:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-20 22:22:09 +0000"
@@ -5330,9 +5492,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-05-20 22:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-20 22:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
     },
     "done": true
   },
@@ -5342,15 +5516,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-05-20 22:22:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:56:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-20 22:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-20 22:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-20 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-20 22:56:05 +0000"
     },
     "done": true
   },
@@ -5366,9 +5576,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-05-20 22:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-20 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2025-05-20 22:25:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-05-20 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-20 22:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-20 22:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-05-20 22:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-20 22:44:49 +0000"
     },
     "done": true
   },

@@ -6510,3 +6510,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 22:26:05.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13366, l='ServerLevel[world]', x=1950.24, y=190.00, z=-4727.35] died: Gearling was slain by Mandester
 [20May2025 22:26:08.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13370, l='ServerLevel[world]', x=1951.50, y=190.00, z=-4724.85] died: Gearling died because of Mandester
 [20May2025 22:26:32.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was killed by magic
+[20May2025 22:28:46.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:28:46.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:30:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Ol' Betsy]
+[20May2025 22:30:59.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was blown up by Creeper
+[20May2025 22:32:53.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Wither Skeleton
+[20May2025 22:33:46.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:33:46.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:34:05.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/18098, l='ServerLevel[world]', x=1944.03, y=224.00, z=-4725.55] died: Gearling was slain by Mandester
+[20May2025 22:34:09.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Gearling
+[20May2025 22:34:28.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/18879, l='ServerLevel[world]', x=1956.82, y=206.00, z=-4724.30] died: Gearling fell from a high place
+[20May2025 22:34:29.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/18847, l='ServerLevel[world]', x=1949.75, y=224.00, z=-4720.55] died: Gearling was slain by Mandester
+[20May2025 22:34:37.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/18891, l='ServerLevel[world]', x=1956.57, y=206.00, z=-4725.51] died: Gearling fell from a high place
+[20May2025 22:35:06.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester went off with a bang
+[20May2025 22:36:39.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:37:32.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:38:46.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:38:46.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:42:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:42:52.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:43:15.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:43:46.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:43:46.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:43:55.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:47:00.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:48:46.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:48:46.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:50:55.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:53:46.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:53:46.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 22:54:52.404] [Server thread/DEBUG] [mixin/]: Mixing contraption.ContainerLevelAccessMixin from create_connected.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[20May2025 22:54:52.404] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:contraption.ContainerLevelAccessMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[20May2025 22:54:52.407] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$Anonymous$7e0ca61738174ff7b2b0a2eff1f0bed6 (originally com/hlysine/create_connected/mixin/contraption/ContainerLevelAccessMixin$1)
+[20May2025 22:57:14.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Gearling
+[20May2025 22:57:29.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29199, l='ServerLevel[world]', x=1949.20, y=250.00, z=-4772.30] died: Gearling was slain by Mandester
+[20May2025 22:58:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Skeleton
+[20May2025 22:58:46.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 22:58:46.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
