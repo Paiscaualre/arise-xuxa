@@ -6794,3 +6794,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 00:26:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester died
 [21May2025 00:28:46.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 00:28:46.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 00:32:30.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Gave 1 [Waystone] to Mandester]
+[21May2025 00:33:46.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 00:33:46.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 00:38:46.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 00:38:46.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
