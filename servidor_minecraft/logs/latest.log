@@ -35,3 +35,8 @@
 [21May2025 00:11:59.268] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
 [21May2025 00:12:03.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:58321] logged in with entity id 62251 at (123.94967382564079, 78.0, -3733.8422500810357)
 [21May2025 00:12:03.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[21May2025 00:23:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester died because of The Monarch
+[21May2025 00:24:12.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester died because of The Monarch
+[21May2025 00:25:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Weakness
+[21May2025 00:25:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has completed the challenge [The Bloodymancer]
+[21May2025 00:26:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester died

@@ -5983,5 +5983,11 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_bloodymancer": {
+    "criteria": {
+      "the_bloodymancer_0": "2025-05-21 00:25:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

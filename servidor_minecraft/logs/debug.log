@@ -6785,3 +6785,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 00:13:46.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21May2025 00:18:46.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 00:18:46.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 00:23:46.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 00:23:46.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 00:23:50.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester died because of The Monarch
+[21May2025 00:24:12.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester died because of The Monarch
+[21May2025 00:25:01.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Weakness
+[21May2025 00:25:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has completed the challenge [The Bloodymancer]
+[21May2025 00:26:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester died
+[21May2025 00:28:46.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 00:28:46.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
